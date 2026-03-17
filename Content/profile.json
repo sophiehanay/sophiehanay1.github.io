@@ -27,11 +27,11 @@
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
+    "Title": "Sallen Key Bandpass Filter",
     "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
-    "DetailImages": ["IMG_6345.jpg","IMG_6472","IMG_6473"]
+    "DetailImages": ["IMG_6345.jpg","IMG_6472.jpg","IMG_6473.jpg"]
   },
   "Project2": {
     "Title": "Interesting Project 2",
