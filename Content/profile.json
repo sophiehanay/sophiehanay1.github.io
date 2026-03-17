@@ -30,7 +30,7 @@
     "Title": "Sallen Key Bandpass Filter",
     "Desc": "For this project, I built 2 stages to successfully pass 10kHz. My Q value was the same for both stages, being 3.9. The gain for the first stage of the filter was 5.56dB, the second stage was 5.56dB, and the total gain for the two together was 11.41dB.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "IMG_6245.jpg",
+    "MainImage": "IMG_6345.jpg",
     "DetailImages": ["IMG_6345.jpg","IMG_6472.jpg","IMG_6473.jpg","Bandpass FIlter LTSpice FRA.png", "LTSpice Bandpass FIlter Design.jpg"]
   },
   "Project2": {
